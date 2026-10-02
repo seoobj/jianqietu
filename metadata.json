@@ -1,0 +1,6 @@
+{
+  "name": "简切图",
+  "description": "简洁实用的多功能图片切图工具，支持九宫格、预设布局、多行列网格切割与自由多区域裁切，一键导出保存与分享。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
